@@ -1,0 +1,7 @@
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\bin\Debug\Softheme_TestTask_2018.exe.config
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\bin\Debug\Softheme_TestTask_2018.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\bin\Debug\Softheme_TestTask_2018.pdb
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\obj\Debug\Softheme_TestTask_2018.csproj.CoreCompileInputs.cache
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\obj\Debug\Softheme_TestTask_2018.exe
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\obj\Debug\Softheme_TestTask_2018.pdb
+C:\Users\Qweetyk\Documents\Git\Softheme_TestTask_2018\Softheme_TestTask_2018\obj\Debug\Softheme_TestTask_2018.csprojResolveAssemblyReference.cache
